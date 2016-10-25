@@ -1,0 +1,3 @@
+cordova plugin add 'PATH PLUGIN'
+cordova plugin remove cordova-plugin-am-i-late
+ionic run android

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="cordova-plugin-am-i-late" version="0.0.1" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android"><name>AmILate</name><js-module name="AmILate" src="www/AmILate.js"><clobbers target="cordova.plugins.AmILate" /></js-module><platform name="android"><config-file parent="/*" target="res/xml/config.xml">
+<config-file parent="/*" target="AndroidManifest.xml">
+</config-file>
+<feature name="AmILate">
+<param name="android-package" value="de.appplant.cordova.plugin.teste.AmILate" />
+</feature></config-file><config-file parent="/*" target="AndroidManifest.xml"></config-file><source-file src="src/android/AmILate.java" target-dir="src/de/appplant/cordova/plugin/teste" /></platform></plugin>
