@@ -11,3 +11,4 @@ cordova.plugins.AmILate.coolMethod('GOKUUUUU', function (result) {
 ```      
       
 
+Segue o link do [tutorial](https://taco.visualstudio.com/en-us/docs/createplugintutorial/).
