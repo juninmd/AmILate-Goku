@@ -1,5 +1,5 @@
-# AmILate-Goku
-Plugin Cordova de exemplo que exibe uma Toast 
+# AmILate
+Plugin Cordova de exemplo feito em Java que exibe uma Toast nativa do Android 
 
 ***Exemplo de chamada***
 ```javascript
@@ -8,5 +8,6 @@ cordova.plugins.AmILate.coolMethod('GOKUUUUU', function (result) {
 }, function (err) {
     console.log("erro", err);
 });
-          
-          ```
+```      
+      
+
